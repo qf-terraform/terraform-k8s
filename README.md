@@ -1,3 +1,6 @@
+
+https://github.com/k-mitevski/terraform-k8s/blob/master/03_terraform_alb_ingress/main.tf
+
 # Provisioning Kubernetes clusters on AWS with Terraform and EKS
 
 This repository contains the the sample code necessary to provision an EKS clusters with the ALB Ingress Controller.
